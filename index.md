@@ -1,2 +1,3 @@
 # hello this is my file
 ## hi world
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
